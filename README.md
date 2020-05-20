@@ -1,1 +1,4 @@
-# taller3covid19
+# Taller 3   ---  COVID-19
+
+
+Alejandro Díaz Cano
